@@ -1,2 +1,2 @@
-# credits
-All of the Open Source and Free to Use Assets used in StarLand
+# StarLand Credits
+a List of all the Open Source Software/assets starland utilizes
