@@ -1,2 +1,2 @@
 # StarLand Credits
-a List of all the Open Source Software/assets starland utilizes
+this list will be published when the game is about to release
